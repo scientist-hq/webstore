@@ -200,6 +200,7 @@ export const configureFiles = (data) => {
 }
 
 export const configureDocument = (document, requestIdentifier) => {
+  console.log(document.line_items)
   return {
     date: normalizeDate(document.created_at),
     documentStatus: document.status,
@@ -244,7 +245,7 @@ const configureLineItems = (lineItems) => (lineItems.map(lineItem => ({
   id: lineItem.id,
   quantity: lineItem.quantity,
   currency: lineItem.currency,
-  name: lineItem.name,
+  name: `${lineItem.title}: ${lineItem.name}`,
   total: lineItem.retail_subtotal_price_currency,
   unitPrice: lineItem.unit_price,
 })))
