@@ -200,7 +200,6 @@ export const configureFiles = (data) => {
 }
 
 export const configureDocument = (document, requestIdentifier) => {
-  console.log(document.line_items)
   return {
     date: normalizeDate(document.created_at),
     documentStatus: document.status,
