@@ -11,9 +11,9 @@ export default ScientistPrivacyPolicy
 
 /* eslint-disable max-len */
 const text = `
-Last updated: December 23, 2022
+Last updated: November 13, 2025
 
-Your privacy is important to us. This Global Privacy Policy explains how The Assay Depot, Inc. (d.b.a. Scientist.com) and members of its group processes personal data and for what purposes. To learn more about Scientist.com and our group please see About Us.
+Your privacy is important to us. This Global Privacy Policy explains how The Assay Depot LLC (d.b.a. Scientist.com) and members of its group processes personal data and for what purposes. To learn more about Scientist.com and our group please see About Us.
 INTRODUCTION
 
 Scientist.com are committed to ensuring that your privacy is protected. We comply with all data protection laws, and other applicable laws which govern tracking technologies (such as "cookies"), electronic marketing and other processing of personal data applicable in each country in which we operate, (together the "Data Protection Laws").
@@ -29,7 +29,7 @@ For the purposes of this Global Privacy Policy, the personal data Scientist.com 
 In specific countries, regions or territories in addition to the general terms there are additional terms that will apply. This Global Privacy Policy is supplemented by additional provisions that apply under local Data Protection Laws in the relevant jurisdiction. We have explicitly stated where additional rights or provisions may apply as these may vary dependent on your location.
 WHO WE ARE
 
-In this Policy, the terms "we", "our", "us" and "Scientist.com" are used to refer to The Assay Depot, Inc (d/b/a Scientist.com), a Delaware corporation with its offices at 329 S Highway 101, Suite 230, Solana Beach, CA 92075 and the members of our global group of companies.
+In this Policy, the terms "we", "our", "us" and "Scientist.com" are used to refer to The Assay Depot LLC (d/b/a Scientist.com), a Delaware corporation with its offices at 329 S Highway 101, Suite 230, Solana Beach, CA 92075 and the members of our global group of companies.
 
 We determine the purpose and means of processing the personal data as described in this Global Privacy Policy and where we act as the data controller / controller (or equivalent terms) for the purposes of the applicable Data Protection Laws.
 

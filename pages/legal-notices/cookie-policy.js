@@ -24,7 +24,7 @@ export default CookiePolicy
 const cookiePolicy = (
   <div>
     <h2>Information About Our Use of Cookies</h2>
-    <p>Our website and platform (together our <strong>"site"</strong>) is operated by the Assay Depot, Inc. d.b.a Scientist.com (<strong>"Scientist.com"</strong>, <strong>"we"</strong>, <strong>"us"</strong>, <strong>"our"</strong>). The site uses cookies to distinguish you from other users and this helps us to provide you with a good experience when you browse our site and also to improve our site.
+    <p>Our website and platform (together our <strong>"site"</strong>) is operated by The Assay Depot LLC d.b.a Scientist.com (<strong>"Scientist.com"</strong>, <strong>"we"</strong>, <strong>"us"</strong>, <strong>"our"</strong>). The site uses cookies to distinguish you from other users and this helps us to provide you with a good experience when you browse our site and also to improve our site.
       If you wish to remove cookies placed on your device by our site or stop our site placing further cookies on your device you can do this at any time (learn how to do this below).
       A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive. We use the following cookies:
     </p>
