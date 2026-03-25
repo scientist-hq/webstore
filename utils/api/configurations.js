@@ -244,7 +244,7 @@ const configureLineItems = (lineItems) => (lineItems.map(lineItem => ({
   id: lineItem.id,
   quantity: lineItem.quantity,
   currency: lineItem.currency,
-  name: lineItem.name,
+  name: `${lineItem.title}: ${lineItem.name}`,
   total: lineItem.retail_subtotal_price_currency,
   unitPrice: lineItem.unit_price,
 })))
